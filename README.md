@@ -1,4 +1,5 @@
 # Backtester-for-Trading-Strategy
+Hello world
 Tests a trading strategy (based on Bollinger Bands) on historical stock data from some S&P500 companies.
 
 # Datasets
